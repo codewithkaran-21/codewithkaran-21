@@ -47,7 +47,7 @@ My goal is to bridge the gap between **machine learning research** and **real-wo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-singh-875a59327)
 ![Profile Views](https://komarev.com/ghpvc/?username=karansingh21&color=blueviolet&style=for-the-badge)
 
-📧 godthatback21@gmail.com *(replace with your real email)*  
+📧 godthatback21@gmail.com 
 
 ---
 

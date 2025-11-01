@@ -36,7 +36,7 @@ I specialize in **Machine Learning**, **GenAI**, **RAG**, and **Data-driven insi
 
 ## 🌐 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/karan-singh-875a59327)  
-📧 karansingh.dev@example.com *(replace with your real email if you wish)*  
+📧 godthatback21@gmail.com *(replace with your real email if you wish)*  
 
 ---
 

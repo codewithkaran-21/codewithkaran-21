@@ -69,8 +69,8 @@ Hi there! I'm **Karan Singh**, a passionate **Data Scientist & MLOps Engineer** 
 <p align="center">
   <a href="https://www.linkedin.com/in/karan-singh-875a59327"><img src="https://img.shields.io/badge/LinkedIn-Karan%20Singh-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:godthatback21@gmail.com"><img src="https://img.shields.io/badge/Email-godthatback21@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/karansingh21"><img src="https://img.shields.io/badge/GitHub-karansingh21-181717?style=for-the-badge&logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=karansingh21&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/codewithkaran-21"><img src="https://img.shields.io/badge/GitHub-karansingh21-181717?style=for-the-badge&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=codewithkaran-21&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---

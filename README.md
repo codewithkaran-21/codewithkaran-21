@@ -54,12 +54,12 @@ Hi there! I'm **Karan Singh**, a passionate **Data Scientist & MLOps Engineer** 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karansingh21&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karansingh21&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codewithkaran-21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkaran-21&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karansingh21&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithkaran-21&theme=tokyonight" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Hi there! I'm **Karan Singh**, a passionate **Data Scientist & MLOps Engineer** 
 <p align="center">
   <a href="https://www.linkedin.com/in/karan-singh-875a59327"><img src="https://img.shields.io/badge/LinkedIn-Karan%20Singh-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:godthatback21@gmail.com"><img src="https://img.shields.io/badge/Email-godthatback21@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/codewithkaran-21"><img src="https://img.shields.io/badge/GitHub-karansingh21-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/codewithkaran-21"><img src="https://img.shields.io/badge/GitHub-codewithkaran--21-181717?style=for-the-badge&logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=codewithkaran-21&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
 

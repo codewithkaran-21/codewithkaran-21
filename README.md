@@ -2,20 +2,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Karan%20Singh%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <!-- 🧠 Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C0FF&size=28&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Karan+Singh!;Data+Science+%7C+Machine+Learning+%7C+MLOps+%7C+GenAI+%7C+RAG;Building+Intelligent+and+Scalable+AI+Systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C0FF&size=28&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Karan+Singh!;Data+Analyst+%7C+Data+Science+%7C+Machine+Learning+%7C+MLOps+%7C+GenAI+%7C+RAG;Building+Intelligent+and+Scalable+Data+%26+AI+Systems.)](https://git.io/typing-svg)
+
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Karan Singh**, a passionate **Data Scientist & MLOps Engineer** dedicated to building  
-**production-grade AI** and **Generative AI systems** that bridge the gap between **research** and **real-world deployment**.
+Hi there! I'm **Karan Singh**, a passionate **Data Analyst, Data Scientist & MLOps Engineer** dedicated to building  
+data-driven solutions and production-grade AI systems that bridge the gap between analytics, research, and real-world deployment.
 
 💡 My focus is on:
-- Designing scalable **ML pipelines**
-- Implementing **MLOps** for reliability
-- Integrating **RAG systems** for advanced LLM applications
-- Delivering data-driven insights through **Data Science**
+- Transforming raw data into actionable business insights
+- Designing scalable ML pipelines
+- Implementing MLOps for reliability and automation
+- Integrating RAG systems for advanced LLM applications
+- Delivering end-to-end data solutions from analysis to deployment
+
 
 ---
 
@@ -23,10 +26,11 @@ Hi there! I'm **Karan Singh**, a passionate **Data Scientist & MLOps Engineer** 
 
 | Area | Description |
 |------|--------------|
-| 📊 **Data Science** | Data cleaning, visualization, and feature engineering |
+| 📊 **Data Analytics** | SQL, EDA, KPI analysis, dashboarding, business insights |
+| 📈 **Data Science** | Feature engineering, statistical analysis, predictive modeling |
 | 🤖 **Machine Learning** | Model training, tuning, and evaluation |
-| ⚙️ **MLOps** | CI/CD, MLflow, Docker, Kubernetes, and deployment automation |
-| 🧩 **GenAI / RAG** | LLMs, LangChain, and retrieval-augmented generation systems |
+| ⚙️ **MLOps** | CI/CD, MLflow, Docker, Kubernetes, deployment automation |
+| 🧩 **GenAI / RAG** | LLMs, LangChain, retrieval-augmented generation systems |
 | ☁️ **Infrastructure** | Scalable cloud deployment and monitoring |
 
 ---
@@ -38,6 +42,9 @@ Hi there! I'm **Karan Singh**, a passionate **Data Scientist & MLOps Engineer** 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-00B4D8?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
